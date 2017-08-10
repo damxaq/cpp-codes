@@ -1,4 +1,4 @@
-#Exponent array
+Exponent array
 
 Write an algorithm that creates a sorted array of positive numbers' squares, such that its maximum element isn't greater than n.
 
